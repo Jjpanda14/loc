@@ -1,0 +1,1 @@
+commands:- git init , git status,git commit -m,git push
